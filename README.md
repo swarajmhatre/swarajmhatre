@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **React, C/CPP**
 
-- 📫 How to reach me **swarajmhatre25@gmail.com**
+- 📫 Contact me **swarajmhatre25@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://www.blogger.com/blog/posts/9119605387008480407?hl=en&tab=jj](https://drive.google.com/drive/folders/1HGZrSLYAfVqJNMpfjkg8cowcLGXCtuJg?usp=sharing)">
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1HGZrSLYAfVqJNMpfjkg8cowcLGXCtuJg?usp=sharing">My Resume<a/>
 <div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thegeekyknight9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegeekyknight9" height="30" width="40" /></a>
